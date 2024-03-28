@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a8d82289669de6143b865c8ab5d8a988
+timeCreated: 1671555878
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274237
+  packageName: Skybox AI Generator by Blockade Labs
+  packageVersion: 1.7.2
+  assetPath: Packages/com.blockadelabs.sdk/Runtime/ApiRequests.cs
+  uploadId: 647629

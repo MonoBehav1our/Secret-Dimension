@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c20b0aa0a96208b47be9f4fb1fd1a49e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274237
+  packageName: Skybox AI Generator by Blockade Labs
+  packageVersion: 1.7.2
+  assetPath: Packages/com.blockadelabs.sdk/Editor/StartScreen.cs
+  uploadId: 647629
